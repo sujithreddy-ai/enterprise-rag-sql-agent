@@ -1,0 +1,8 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+uvicorn.log
+chroma_store/
+*.db
+.DS_Store
